@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['uint16array',['Uint16Array',['../namespace_napi.html#a2bcd0629fa40dca2d0a16dbd4b5f5670',1,'Napi']]],
-  ['uint32array',['Uint32Array',['../namespace_napi.html#a62b0894d8037a158becd81e8dc387864',1,'Napi']]],
-  ['uint8array',['Uint8Array',['../namespace_napi.html#a8d1a335266cab4c07386d8bb819de18e',1,'Napi']]]
+  ['settercallback',['SetterCallback',['../class_napi_1_1_property_descriptor.html#a32d885e2d498564e17098fb0b24956e0',1,'Napi::PropertyDescriptor']]],
+  ['staticgettercallback',['StaticGetterCallback',['../class_napi_1_1_object_wrap.html#a85a0651fbe459fdfaa72c9b229a7a100',1,'Napi::ObjectWrap']]],
+  ['staticmethodcallback',['StaticMethodCallback',['../class_napi_1_1_object_wrap.html#ad8a87ff1a9ec435dee1fb119a1417c0a',1,'Napi::ObjectWrap']]],
+  ['staticsettercallback',['StaticSetterCallback',['../class_napi_1_1_object_wrap.html#a83326a41a0c6ce1fc2d78fe49858c4e6',1,'Napi::ObjectWrap']]],
+  ['staticvoidmethodcallback',['StaticVoidMethodCallback',['../class_napi_1_1_object_wrap.html#ae190f071d8d7e649da392b6e3348eda3',1,'Napi::ObjectWrap']]]
 ];
